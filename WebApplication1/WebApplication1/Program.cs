@@ -16,6 +16,7 @@ namespace WebApplication1
         {
             BuildWebHost(args).Run();
 
+            // added comment in master
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
